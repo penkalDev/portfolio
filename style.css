@@ -114,6 +114,7 @@ button {
   height: 300px !important;
  
   background-image: url(./images/center3.jpg);
+  background-position: bottom right;
 }
 
 
